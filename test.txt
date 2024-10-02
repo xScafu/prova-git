@@ -1,0 +1,4 @@
+ciao
+
+U = untracked
+A = added
